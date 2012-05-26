@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  orange: MyString
+  quantity: 1
+
+two:
+  orange: MyString
+  quantity: 1
